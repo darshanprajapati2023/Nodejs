@@ -1,0 +1,13 @@
+{
+  "name": "filecrud",
+  "version": "1.0.0",
+  "description": "This is sample",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Darshan Prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,12 @@
+--------Logs--------
+[+] 10-04-2024 00:31:55 Server is listening at http://127.0.0.1:3000
+[*] 10-04-2024 00:32:00 GET /
+[*] 10-04-2024 00:32:08 POST /api/teacher/login
+[*] 10-04-2024 00:32:09 GET /dashboard
+[+] 10-04-2024 18:56:58 Server is listening at http://127.0.0.1:3000
+[*] 10-04-2024 18:57:03 GET /
+[*] 10-04-2024 18:57:03 GET /css/index.css/
+[*] 10-04-2024 18:57:03 GET /js/index.js/
+[*] 10-04-2024 18:57:06 GET /
+[*] 10-04-2024 18:57:28 POST /api/teacher/login
+[*] 10-04-2024 18:57:28 GET /dashboard

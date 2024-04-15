@@ -1,0 +1,1082 @@
+--------Logs--------
+[+] 08-04-2024 09:26:16 Server is listening at 3000
+[+] 08-04-2024 09:28:00 Server is listening at 3000
+[+] 08-04-2024 09:43:46 Server is listening at 3000
+[*] 08-04-2024 09:43:51 GET /
+[*] 08-04-2024 09:43:51 GET /styles.css
+[*] 08-04-2024 09:43:51 GET /favicon.ico
+[+] 08-04-2024 09:55:55 Server is listening at 3000
+[*] 08-04-2024 09:56:00 GET /
+[*] 08-04-2024 09:56:00 GET /styles.css
+[*] 08-04-2024 09:56:00 GET /styles.css
+[*] 08-04-2024 09:56:01 GET /favicon.ico
+[*] 08-04-2024 09:56:09 GET /styles.css
+[+] 08-04-2024 10:09:08 Server is listening at 3000
+[*] 08-04-2024 10:09:12 GET /
+[*] 08-04-2024 10:09:12 GET /styles.css
+[*] 08-04-2024 10:09:12 GET /styles.css
+[+] 08-04-2024 10:13:01 Server is listening at 3000
+[*] 08-04-2024 10:13:06 GET /
+[*] 08-04-2024 10:13:06 GET /styles.css
+[*] 08-04-2024 10:13:06 GET /styles.css
+[*] 08-04-2024 10:13:17 GET /styles.css
+[*] 08-04-2024 10:17:11 GET /
+[*] 08-04-2024 10:17:11 GET /styles.css
+[*] 08-04-2024 10:17:11 GET /styles.css
+[*] 08-04-2024 10:17:13 GET /
+[*] 08-04-2024 10:17:13 GET /styles.css
+[*] 08-04-2024 10:17:18 GET /
+[*] 08-04-2024 10:17:18 GET /styles.css
+[*] 08-04-2024 10:17:27 GET /
+[*] 08-04-2024 10:17:27 GET /styles.css
+[*] 08-04-2024 10:20:31 GET /
+[*] 08-04-2024 10:20:31 GET /styles.css
+[*] 08-04-2024 10:21:27 GET /
+[*] 08-04-2024 10:21:27 GET /styles.css
+[*] 08-04-2024 10:21:27 GET /styles.css
+[*] 08-04-2024 10:27:00 GET /
+[*] 08-04-2024 10:27:00 GET /styles.css
+[*] 08-04-2024 10:27:00 GET /styles.css
+[*] 08-04-2024 10:33:15 GET /
+[*] 08-04-2024 10:33:15 GET /styles.css
+[*] 08-04-2024 10:33:15 GET /styles.css
+[*] 08-04-2024 10:35:42 GET /
+[*] 08-04-2024 10:35:42 GET /styles.css
+[*] 08-04-2024 10:35:42 GET /styles.css
+[*] 08-04-2024 10:37:39 GET /
+[*] 08-04-2024 10:37:39 GET /styles.css
+[*] 08-04-2024 10:37:39 GET /styles.css
+[*] 08-04-2024 10:39:01 GET /
+[*] 08-04-2024 10:39:01 GET /styles.css
+[*] 08-04-2024 10:39:01 GET /styles.css
+[*] 08-04-2024 10:39:32 GET /
+[*] 08-04-2024 10:39:32 GET /styles.css
+[*] 08-04-2024 10:39:32 GET /styles.css
+[*] 08-04-2024 10:39:35 GET /
+[*] 08-04-2024 10:39:35 GET /styles.css
+[*] 08-04-2024 10:39:35 GET /
+[*] 08-04-2024 10:39:36 GET /styles.css
+[*] 08-04-2024 10:39:36 GET /
+[*] 08-04-2024 10:39:36 GET /styles.css
+[*] 08-04-2024 10:39:38 GET /
+[*] 08-04-2024 10:39:38 GET /styles.css
+[*] 08-04-2024 10:41:02 GET /
+[*] 08-04-2024 10:41:02 GET /styles.css
+[*] 08-04-2024 10:41:08 GET /
+[*] 08-04-2024 10:41:08 GET /styles.css
+[*] 08-04-2024 10:41:44 GET /
+[*] 08-04-2024 10:41:44 GET /styles.css
+[*] 08-04-2024 10:45:11 GET /
+[*] 08-04-2024 10:45:11 GET /styles.css
+[*] 08-04-2024 10:46:29 GET /
+[*] 08-04-2024 10:46:29 GET /styles.css
+[*] 08-04-2024 10:46:29 GET /styles.css
+[*] 08-04-2024 10:46:34 GET /
+[*] 08-04-2024 10:46:34 GET /styles.css
+[*] 08-04-2024 10:47:59 GET /
+[*] 08-04-2024 10:47:59 GET /styles.css
+[*] 08-04-2024 10:48:11 GET /
+[*] 08-04-2024 10:48:11 GET /styles.css
+[*] 08-04-2024 10:48:12 GET /
+[*] 08-04-2024 10:48:12 GET /styles.css
+[*] 08-04-2024 10:48:13 GET /
+[*] 08-04-2024 10:48:13 GET /styles.css
+[*] 08-04-2024 10:48:16 GET /
+[*] 08-04-2024 10:48:16 GET /styles.css
+[*] 08-04-2024 10:51:51 GET /
+[*] 08-04-2024 10:51:51 GET /styles.css
+[*] 08-04-2024 10:53:14 GET /
+[*] 08-04-2024 10:53:14 GET /styles.css
+[*] 08-04-2024 10:53:14 GET /styles.css
+[*] 08-04-2024 10:54:39 GET /
+[*] 08-04-2024 10:54:39 GET /styles.css
+[*] 08-04-2024 10:54:39 GET /styles.css
+[*] 08-04-2024 10:56:35 GET /
+[*] 08-04-2024 10:56:35 GET /styles.css
+[*] 08-04-2024 10:56:35 GET /styles.css
+[*] 08-04-2024 11:04:33 GET /
+[*] 08-04-2024 11:04:33 GET /styles.css
+[*] 08-04-2024 11:04:33 GET /styles.css
+[*] 08-04-2024 11:10:35 GET /
+[*] 08-04-2024 11:10:36 GET /styles.css
+[*] 08-04-2024 11:10:36 GET /styles.css
+[+] 08-04-2024 11:28:43 Server is listening at 3000
+[+] 08-04-2024 11:29:18 Server is listening at 3000
+[+] 08-04-2024 11:30:11 Server is listening at 3000
+[+] 08-04-2024 11:41:50 Server is listening at 3000
+[+] 08-04-2024 11:42:18 Server is listening at 3000
+[+] 08-04-2024 11:42:32 Server is listening at 3000
+[*] 08-04-2024 11:42:38 GET /
+[*] 08-04-2024 11:42:38 GET /css/index.css
+[*] 08-04-2024 11:42:38 GET /styles.css
+[*] 08-04-2024 11:42:38 GET /css/index.css
+[*] 08-04-2024 11:42:38 GET /styles.css
+[+] 08-04-2024 11:44:08 Server is listening at 3000
+[*] 08-04-2024 11:44:11 GET /
+[*] 08-04-2024 11:44:11 GET /public/css/index.css
+[*] 08-04-2024 11:44:11 GET /styles.css
+[*] 08-04-2024 11:44:12 GET /
+[*] 08-04-2024 11:44:12 GET /public/css/index.css
+[*] 08-04-2024 11:44:12 GET /styles.css
+[*] 08-04-2024 11:44:12 GET /
+[*] 08-04-2024 11:44:13 GET /public/css/index.css
+[*] 08-04-2024 11:44:13 GET /styles.css
+[*] 08-04-2024 11:44:13 GET /
+[*] 08-04-2024 11:44:13 GET /public/css/index.css
+[*] 08-04-2024 11:44:13 GET /styles.css
+[*] 08-04-2024 11:44:13 GET /
+[*] 08-04-2024 11:44:13 GET /public/css/index.css
+[*] 08-04-2024 11:44:13 GET /styles.css
+[*] 08-04-2024 11:44:15 GET /
+[*] 08-04-2024 11:44:15 GET /public/css/index.css
+[*] 08-04-2024 11:44:15 GET /styles.css
+[*] 08-04-2024 11:44:15 GET /
+[*] 08-04-2024 11:44:15 GET /public/css/index.css
+[*] 08-04-2024 11:44:15 GET /styles.css
+[*] 08-04-2024 11:44:16 GET /
+[*] 08-04-2024 11:44:16 GET /public/css/index.css
+[*] 08-04-2024 11:44:16 GET /styles.css
+[*] 08-04-2024 11:44:16 GET /
+[*] 08-04-2024 11:44:16 GET /public/css/index.css
+[*] 08-04-2024 11:44:16 GET /styles.css
+[+] 08-04-2024 11:45:37 Server is listening at 3000
+[*] 08-04-2024 11:45:41 GET /
+[*] 08-04-2024 11:45:41 GET /css/index.css
+[*] 08-04-2024 11:45:42 GET /
+[*] 08-04-2024 11:45:42 GET /css/index.css
+[*] 08-04-2024 11:45:43 GET /
+[*] 08-04-2024 11:45:43 GET /css/index.css
+[*] 08-04-2024 11:45:43 GET /
+[*] 08-04-2024 11:45:43 GET /css/index.css
+[*] 08-04-2024 11:45:44 GET /
+[*] 08-04-2024 11:45:44 GET /css/index.css
+[*] 08-04-2024 11:45:44 GET /
+[*] 08-04-2024 11:45:44 GET /css/index.css
+[*] 08-04-2024 11:45:47 GET /
+[*] 08-04-2024 11:45:47 GET /css/index.css
+[+] 08-04-2024 11:46:42 Server is listening at 3000
+[*] 08-04-2024 11:46:46 GET /
+[*] 08-04-2024 11:46:46 GET /public/css/index.css
+[*] 08-04-2024 11:46:46 GET /public/css/index.css
+[*] 08-04-2024 11:46:49 GET /
+[*] 08-04-2024 11:46:49 GET /public/css/index.css
+[+] 08-04-2024 11:48:25 Server is listening at 3000
+[*] 08-04-2024 11:48:28 GET /
+[*] 08-04-2024 11:48:28 GET /public/css/index.css
+[*] 08-04-2024 11:48:39 GET /public/css/index.css
+[*] 08-04-2024 11:48:45 GET /
+[*] 08-04-2024 11:48:45 GET /public/css/index.css
+[*] 08-04-2024 11:48:45 GET /public/css/index.css
+[+] 08-04-2024 11:49:39 Server is listening at 3000
+[*] 08-04-2024 11:49:42 GET /
+[*] 08-04-2024 11:49:42 GET /css/index.css
+[*] 08-04-2024 11:49:42 GET /css/index.css
+[*] 08-04-2024 11:49:43 GET /
+[*] 08-04-2024 11:49:43 GET /css/index.css
+[*] 08-04-2024 11:49:44 GET /
+[*] 08-04-2024 11:49:44 GET /css/index.css
+[*] 08-04-2024 11:49:44 GET /
+[*] 08-04-2024 11:49:44 GET /css/index.css
+[*] 08-04-2024 11:49:45 GET /
+[*] 08-04-2024 11:49:45 GET /css/index.css
+[*] 08-04-2024 11:49:45 GET /
+[*] 08-04-2024 11:49:46 GET /css/index.css
+[*] 08-04-2024 11:49:46 GET /
+[*] 08-04-2024 11:49:46 GET /css/index.css
+[+] 08-04-2024 11:49:59 Server is listening at 3000
+[*] 08-04-2024 11:50:05 GET /
+[*] 08-04-2024 11:50:05 GET /css/index.css
+[*] 08-04-2024 11:50:06 GET /
+[*] 08-04-2024 11:50:06 GET /css/index.css
+[*] 08-04-2024 11:50:06 GET /
+[*] 08-04-2024 11:50:06 GET /css/index.css
+[*] 08-04-2024 11:50:07 GET /
+[*] 08-04-2024 11:50:07 GET /css/index.css
+[+] 08-04-2024 11:50:32 Server is listening at 3000
+[*] 08-04-2024 11:50:36 GET /
+[*] 08-04-2024 11:50:36 GET /index.css
+[*] 08-04-2024 11:50:36 GET /
+[*] 08-04-2024 11:50:36 GET /index.css
+[*] 08-04-2024 11:50:37 GET /
+[*] 08-04-2024 11:50:37 GET /index.css
+[*] 08-04-2024 11:50:37 GET /
+[*] 08-04-2024 11:50:37 GET /index.css
+[*] 08-04-2024 11:50:37 GET /
+[*] 08-04-2024 11:50:37 GET /index.css
+[*] 08-04-2024 11:50:38 GET /
+[*] 08-04-2024 11:50:38 GET /index.css
+[*] 08-04-2024 11:50:39 GET /
+[*] 08-04-2024 11:50:39 GET /index.css
+[+] 08-04-2024 11:51:27 Server is listening at 3000
+[*] 08-04-2024 11:51:32 GET /
+[*] 08-04-2024 11:51:32 GET /css/index.css
+[*] 08-04-2024 11:51:33 GET /
+[*] 08-04-2024 11:51:33 GET /css/index.css
+[*] 08-04-2024 11:51:33 GET /
+[*] 08-04-2024 11:51:33 GET /css/index.css
+[*] 08-04-2024 11:51:34 GET /
+[*] 08-04-2024 11:51:34 GET /css/index.css
+[*] 08-04-2024 11:51:34 GET /
+[*] 08-04-2024 11:51:34 GET /css/index.css
+[*] 08-04-2024 11:51:35 GET /
+[*] 08-04-2024 11:51:35 GET /css/index.css
+[*] 08-04-2024 11:51:35 GET /
+[*] 08-04-2024 11:51:35 GET /css/index.css
+[+] 08-04-2024 11:51:47 Server is listening at 3000
+[*] 08-04-2024 11:51:50 GET /
+[*] 08-04-2024 11:51:50 GET /css/index.css
+[*] 08-04-2024 11:51:50 GET /css/index.css
+[*] 08-04-2024 11:51:55 GET /
+[*] 08-04-2024 11:51:55 GET /css/index.css
+[*] 08-04-2024 11:51:59 GET /css/index.css
+[*] 08-04-2024 11:52:03 GET /
+[*] 08-04-2024 11:52:03 GET /css/index.css
+[*] 08-04-2024 11:52:03 GET /css/index.css
+[+] 08-04-2024 11:52:44 Server is listening at 3000
+[*] 08-04-2024 11:52:48 GET /
+[*] 08-04-2024 11:52:48 GET /public/css/index.css
+[*] 08-04-2024 11:52:48 GET /public/css/index.css
+[*] 08-04-2024 11:52:50 GET /
+[*] 08-04-2024 11:52:51 GET /public/css/index.css
+[*] 08-04-2024 11:52:51 GET /
+[*] 08-04-2024 11:52:51 GET /public/css/index.css
+[*] 08-04-2024 11:52:52 GET /
+[*] 08-04-2024 11:52:52 GET /public/css/index.css
+[*] 08-04-2024 11:52:52 GET /
+[*] 08-04-2024 11:52:52 GET /public/css/index.css
+[*] 08-04-2024 11:52:54 GET /
+[*] 08-04-2024 11:52:54 GET /public/css/index.css
+[*] 08-04-2024 11:52:54 GET /
+[*] 08-04-2024 11:52:54 GET /public/css/index.css
+[*] 08-04-2024 11:52:54 GET /
+[*] 08-04-2024 11:52:54 GET /public/css/index.css
+[+] 08-04-2024 11:59:28 Server is listening at 3000
+[*] 08-04-2024 11:59:32 GET /
+[*] 08-04-2024 11:59:32 GET /public/css/index.css
+[*] 08-04-2024 11:59:33 GET /
+[*] 08-04-2024 11:59:33 GET /public/css/index.css
+[*] 08-04-2024 11:59:43 GET /
+[*] 08-04-2024 11:59:43 GET /css/index.css
+[*] 08-04-2024 11:59:44 GET /
+[*] 08-04-2024 11:59:44 GET /css/index.css
+[+] 08-04-2024 12:05:49 Server is listening at 3000
+[*] 08-04-2024 12:05:56 GET /
+[*] 08-04-2024 12:05:59 GET /
+[*] 08-04-2024 12:06:20 GET /
+[*] 08-04-2024 12:06:20 GET /css/index.css
+[*] 08-04-2024 12:07:19 GET /
+[*] 08-04-2024 12:07:19 GET /css/index.css
+[*] 08-04-2024 12:07:19 GET /css/index.css
+[*] 08-04-2024 12:07:20 GET /
+[*] 08-04-2024 12:07:20 GET /css/index.css
+[*] 08-04-2024 12:08:12 GET /
+[*] 08-04-2024 12:08:12 GET /css/index.css
+[*] 08-04-2024 12:08:13 GET /
+[*] 08-04-2024 12:08:13 GET /css/index.css
+[*] 08-04-2024 12:08:14 GET /
+[*] 08-04-2024 12:08:14 GET /css/index.css
+[*] 08-04-2024 12:08:14 GET /
+[*] 08-04-2024 12:08:14 GET /css/index.css
+[*] 08-04-2024 12:08:14 GET /
+[*] 08-04-2024 12:08:14 GET /css/index.css
+[*] 08-04-2024 12:08:15 GET /
+[*] 08-04-2024 12:08:15 GET /css/index.css
+[*] 08-04-2024 12:08:16 GET /
+[*] 08-04-2024 12:08:16 GET /css/index.css
+[*] 08-04-2024 12:08:48 GET /
+[*] 08-04-2024 12:08:48 GET /css/index.css
+[*] 08-04-2024 12:08:48 GET /
+[*] 08-04-2024 12:08:48 GET /css/index.css
+[*] 08-04-2024 12:08:48 GET /
+[*] 08-04-2024 12:08:48 GET /css/index.css
+[*] 08-04-2024 12:08:49 GET /
+[*] 08-04-2024 12:08:49 GET /css/index.css
+[*] 08-04-2024 12:08:49 GET /
+[*] 08-04-2024 12:08:49 GET /css/index.css
+[*] 08-04-2024 12:08:49 GET /
+[*] 08-04-2024 12:08:49 GET /css/index.css
+[*] 08-04-2024 12:08:49 GET /
+[*] 08-04-2024 12:08:49 GET /css/index.css
+[*] 08-04-2024 12:09:51 GET /
+[*] 08-04-2024 12:09:51 GET /css/index.css
+[*] 08-04-2024 12:09:52 GET /
+[*] 08-04-2024 12:09:52 GET /css/index.css
+[*] 08-04-2024 12:09:52 GET /
+[*] 08-04-2024 12:09:52 GET /css/index.css
+[*] 08-04-2024 12:09:52 GET /
+[*] 08-04-2024 12:09:52 GET /css/index.css
+[*] 08-04-2024 12:09:56 GET /
+[*] 08-04-2024 12:09:56 GET /css/index.css
+[*] 08-04-2024 12:10:16 GET /css/index.css
+[*] 08-04-2024 12:10:20 GET /
+[*] 08-04-2024 12:10:20 GET /css/index.css
+[*] 08-04-2024 12:10:20 GET /css/index.css
+[+] 08-04-2024 12:12:08 Server is listening at 3000
+[*] 08-04-2024 12:12:15 GET /
+[*] 08-04-2024 12:12:16 GET /public/css/index.css
+[*] 08-04-2024 12:12:16 GET /public/css/index.css
+[*] 08-04-2024 12:12:17 GET /
+[*] 08-04-2024 12:12:17 GET /public/css/index.css
+[*] 08-04-2024 12:12:18 GET /
+[*] 08-04-2024 12:12:18 GET /public/css/index.css
+[*] 08-04-2024 12:12:18 GET /
+[*] 08-04-2024 12:12:18 GET /public/css/index.css
+[*] 08-04-2024 12:12:19 GET /
+[*] 08-04-2024 12:12:19 GET /public/css/index.css
+[*] 08-04-2024 12:12:21 GET /
+[*] 08-04-2024 12:12:21 GET /public/css/index.css
+[+] 08-04-2024 12:23:34 Server is listening at 3000
+[*] 08-04-2024 12:23:34 GET /
+[*] 08-04-2024 12:23:34 GET /public/css/index.css
+[*] 08-04-2024 12:23:34 GET /public/css/index.css
+[*] 08-04-2024 12:26:24 GET /
+[*] 08-04-2024 12:26:24 GET /css/index.css
+[*] 08-04-2024 12:26:24 GET /css/index.css
+[*] 08-04-2024 12:28:43 GET /css/index.css
+[+] 08-04-2024 12:31:34 Server is listening at 3000
+[*] 08-04-2024 12:31:51 GET /
+[*] 08-04-2024 12:31:51 GET /css/index.css
+[*] 08-04-2024 12:31:51 GET /css/index.css
+[*] 08-04-2024 12:31:54 GET /
+[*] 08-04-2024 12:31:54 GET /css/index.css
+[*] 08-04-2024 12:32:07 GET /css/index.css
+[*] 08-04-2024 12:32:11 GET /
+[*] 08-04-2024 12:32:11 GET /css/index.css
+[*] 08-04-2024 12:32:11 GET /css/index.css
+[+] 08-04-2024 12:40:39 Server is listening at 3000
+[*] 08-04-2024 12:40:46 GET /
+[*] 08-04-2024 12:40:46 GET /css/index.css
+[*] 08-04-2024 12:40:46 GET /css/index.css
+[*] 08-04-2024 12:40:46 GET /favicon.ico
+[+] 08-04-2024 12:42:28 Server is listening at 3000
+[*] 08-04-2024 12:42:33 GET /
+[*] 08-04-2024 12:42:33 GET /public/css/index.css
+[*] 08-04-2024 12:42:33 GET /public/css/index.css
+[*] 08-04-2024 12:42:33 GET /favicon.ico
+[*] 08-04-2024 12:43:21 GET /
+[*] 08-04-2024 12:43:21 GET /css/index.css
+[*] 08-04-2024 12:43:21 GET /css/index.css
+[*] 08-04-2024 12:43:24 GET /css/index.css
+[+] 08-04-2024 12:58:29 Server is listening at 3000
+[*] 08-04-2024 12:58:35 GET /
+[*] 08-04-2024 12:58:35 GET /index.css
+[*] 08-04-2024 12:58:35 GET /index.css
+[*] 08-04-2024 12:58:56 GET /index.css
+[*] 08-04-2024 12:59:00 GET /
+[*] 08-04-2024 12:59:00 GET /index.css
+[*] 08-04-2024 12:59:00 GET /index.css
+[+] 08-04-2024 13:05:20 Server is listening at 3000
+[*] 08-04-2024 13:05:24 GET /
+[*] 08-04-2024 13:05:24 GET /index.css
+[*] 08-04-2024 13:05:24 GET /index.css
+[*] 08-04-2024 13:05:25 GET /
+[*] 08-04-2024 13:05:25 GET /index.css
+[*] 08-04-2024 13:05:25 GET /
+[*] 08-04-2024 13:05:25 GET /index.css
+[*] 08-04-2024 13:05:26 GET /
+[*] 08-04-2024 13:05:26 GET /index.css
+[*] 08-04-2024 13:05:26 GET /
+[*] 08-04-2024 13:05:26 GET /index.css
+[*] 08-04-2024 13:05:27 GET /
+[*] 08-04-2024 13:05:27 GET /index.css
+[*] 08-04-2024 13:05:27 GET /
+[*] 08-04-2024 13:05:27 GET /index.css
+[*] 08-04-2024 13:05:27 GET /
+[*] 08-04-2024 13:05:27 GET /index.css
+[+] 08-04-2024 13:06:22 Server is listening at 3000
+[*] 08-04-2024 13:06:24 GET /
+[*] 08-04-2024 13:06:24 GET /index.css
+[*] 08-04-2024 13:06:24 GET /
+[*] 08-04-2024 13:06:24 GET /index.css
+[*] 08-04-2024 13:07:00 GET /
+[*] 08-04-2024 13:07:00 GET /css/index.css
+[*] 08-04-2024 13:07:01 GET /
+[*] 08-04-2024 13:07:01 GET /css/index.css
+[*] 08-04-2024 13:07:02 GET /
+[*] 08-04-2024 13:07:02 GET /css/index.css
+[*] 08-04-2024 13:07:02 GET /
+[*] 08-04-2024 13:07:02 GET /css/index.css
+[*] 08-04-2024 13:07:03 GET /
+[*] 08-04-2024 13:07:03 GET /css/index.css
+[*] 08-04-2024 13:07:04 GET /
+[*] 08-04-2024 13:07:04 GET /css/index.css
+[*] 08-04-2024 13:07:05 GET /
+[*] 08-04-2024 13:07:05 GET /css/index.css
+[*] 08-04-2024 13:07:10 GET /
+[*] 08-04-2024 13:07:10 GET /css/index.css
+[*] 08-04-2024 13:07:16 GET /
+[*] 08-04-2024 13:07:16 GET /css/index.css
+[*] 08-04-2024 13:07:17 GET /
+[*] 08-04-2024 13:07:17 GET /css/index.css
+[*] 08-04-2024 13:07:18 GET /
+[*] 08-04-2024 13:07:18 GET /css/index.css
+[+] 08-04-2024 13:07:38 Server is listening at 3000
+[*] 08-04-2024 13:07:38 GET /
+[*] 08-04-2024 13:07:38 GET /css/index.css
+[*] 08-04-2024 13:07:40 GET /
+[*] 08-04-2024 13:07:40 GET /css/index.css
+[*] 08-04-2024 13:07:43 GET /
+[*] 08-04-2024 13:07:43 GET /css/index.css
+[*] 08-04-2024 13:07:44 GET /
+[*] 08-04-2024 13:07:44 GET /css/index.css
+[*] 08-04-2024 13:07:44 GET /
+[*] 08-04-2024 13:07:44 GET /css/index.css
+[+] 08-04-2024 13:16:18 Server is listening at 3000
+[*] 08-04-2024 13:16:25 GET /
+[*] 08-04-2024 13:16:25 GET /css/index.css
+[*] 08-04-2024 13:16:26 GET /
+[*] 08-04-2024 13:16:26 GET /css/index.css
+[+] 08-04-2024 13:24:24 Server is listening at 3000
+[*] 08-04-2024 13:24:30 GET /
+[*] 08-04-2024 13:24:30 GET /css/index.css
+[*] 08-04-2024 13:24:33 GET /
+[*] 08-04-2024 13:24:33 GET /css/index.css
+[*] 08-04-2024 13:24:33 GET /
+[*] 08-04-2024 13:24:33 GET /css/index.css
+[+] 08-04-2024 13:29:01 Server is listening at 3000
+[+] 08-04-2024 13:32:16 Server is listening at 3000
+[*] 08-04-2024 13:32:18 GET /
+[*] 08-04-2024 13:32:18 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:18 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:18 GET /
+[*] 08-04-2024 13:32:18 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:19 GET /
+[*] 08-04-2024 13:32:19 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:19 GET /
+[*] 08-04-2024 13:32:19 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:19 GET /
+[*] 08-04-2024 13:32:19 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:20 GET /
+[*] 08-04-2024 13:32:20 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:23 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:27 GET /
+[*] 08-04-2024 13:32:27 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:27 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:31 GET /
+[*] 08-04-2024 13:32:31 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:31 GET /
+[*] 08-04-2024 13:32:31 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:34 GET /
+[*] 08-04-2024 13:32:34 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:38 GET /
+[*] 08-04-2024 13:32:38 GET /NODEJS%20HOMEWORK/public/css/index.css
+[*] 08-04-2024 13:32:39 GET /
+[*] 08-04-2024 13:32:39 GET /NODEJS%20HOMEWORK/public/css/index.css
+[+] 08-04-2024 14:06:16 Server is listening at 3000
+[+] 08-04-2024 14:06:19 Server is listening at 3000
+[+] 08-04-2024 14:06:35 Server is listening at 3000
+[*] 08-04-2024 14:06:40 GET /
+[*] 08-04-2024 14:06:40 GET /css/index.css
+[*] 08-04-2024 14:06:40 GET /css/index.css
+[*] 08-04-2024 14:06:40 GET /favicon.ico
+[*] 08-04-2024 14:06:43 GET /
+[*] 08-04-2024 14:06:43 GET /css/index.css
+[*] 08-04-2024 14:06:43 GET /
+[*] 08-04-2024 14:06:43 GET /css/index.css
+[*] 08-04-2024 14:06:44 GET /
+[*] 08-04-2024 14:06:44 GET /css/index.css
+[*] 08-04-2024 14:06:44 GET /
+[*] 08-04-2024 14:06:44 GET /css/index.css
+[*] 08-04-2024 14:06:53 GET /css/index.css
+[*] 08-04-2024 14:06:57 GET /
+[*] 08-04-2024 14:06:57 GET /css/index.css
+[*] 08-04-2024 14:06:57 GET /css/index.css
+[*] 08-04-2024 14:07:05 GET /
+[*] 08-04-2024 14:07:05 GET /css/index.css
+[+] 08-04-2024 14:07:29 Server is listening at 3000
+[*] 08-04-2024 14:07:32 GET /
+[*] 08-04-2024 14:07:32 GET /css/index.css
+[*] 08-04-2024 14:07:38 GET /
+[*] 08-04-2024 14:07:38 GET /css/index.css
+[*] 08-04-2024 14:07:39 GET /
+[*] 08-04-2024 14:07:39 GET /css/index.css
+[*] 08-04-2024 14:07:40 GET /
+[*] 08-04-2024 14:07:40 GET /css/index.css
+[*] 08-04-2024 14:07:40 GET /
+[*] 08-04-2024 14:07:40 GET /css/index.css
+[*] 08-04-2024 14:07:41 GET /
+[*] 08-04-2024 14:07:41 GET /css/index.css
+[*] 08-04-2024 14:07:46 GET /
+[*] 08-04-2024 14:07:46 GET /css/index.css
+[+] 08-04-2024 14:20:57 Server is listening at 3000
+[*] 08-04-2024 14:21:01 GET /
+[*] 08-04-2024 14:21:03 GET /
+[*] 08-04-2024 14:21:03 GET /
+[*] 08-04-2024 14:21:04 GET /
+[*] 08-04-2024 14:21:13 GET /
+[*] 08-04-2024 14:21:14 GET /
+[*] 08-04-2024 14:21:16 GET /
+[+] 08-04-2024 14:30:34 Server is listening at 3000
+[*] 08-04-2024 14:30:44 GET /
+[*] 08-04-2024 14:30:44 GET /css/index.css
+[*] 08-04-2024 14:30:44 GET /css/index.css
+[*] 08-04-2024 14:30:44 GET /favicon.ico
+[+] 08-04-2024 14:41:06 Server is listening at 3000
+[*] 08-04-2024 14:41:10 GET /
+[*] 08-04-2024 14:41:10 GET /css/index.css
+[*] 08-04-2024 14:41:10 GET /css/index.css
+[*] 08-04-2024 14:41:15 GET /css/index.css
+[*] 08-04-2024 14:41:20 GET /
+[*] 08-04-2024 14:41:20 GET /css/index.css
+[*] 08-04-2024 14:41:20 GET /css/index.css
+[+] 08-04-2024 14:47:16 Server is listening at 3000
+[*] 08-04-2024 14:47:22 GET /
+[*] 08-04-2024 14:47:22 GET /css/index.css
+[*] 08-04-2024 14:47:22 GET /css/index.css
+[*] 08-04-2024 14:47:26 GET /css/index.css
+[*] 08-04-2024 14:47:30 GET /
+[*] 08-04-2024 14:47:30 GET /css/index.css
+[*] 08-04-2024 14:47:30 GET /css/index.css
+[+] 08-04-2024 14:47:47 Server is listening at 3000
+[*] 08-04-2024 14:47:47 GET /
+[*] 08-04-2024 14:47:47 GET /css/index.css
+[*] 08-04-2024 14:47:47 GET /css/index.css
+[*] 08-04-2024 14:47:50 GET /
+[*] 08-04-2024 14:47:50 GET /css/index.css
+[*] 08-04-2024 14:48:01 GET /
+[*] 08-04-2024 14:48:01 GET /css/index.css
+[*] 08-04-2024 14:48:02 GET /
+[*] 08-04-2024 14:48:02 GET /css/index.css
+[*] 08-04-2024 14:48:03 GET /
+[*] 08-04-2024 14:48:03 GET /css/index.css
+[+] 08-04-2024 14:54:39 Server is listening at 3000
+[*] 08-04-2024 14:54:42 GET /
+[*] 08-04-2024 14:54:42 GET /public/css/index.css
+[*] 08-04-2024 14:54:43 GET /
+[*] 08-04-2024 14:54:43 GET /public/css/index.css
+[*] 08-04-2024 14:54:44 GET /
+[*] 08-04-2024 14:54:44 GET /public/css/index.css
+[*] 08-04-2024 14:54:44 GET /
+[*] 08-04-2024 14:54:44 GET /public/css/index.css
+[*] 08-04-2024 14:54:49 GET /
+[*] 08-04-2024 14:54:49 GET /public/css/index.css
+[*] 08-04-2024 14:54:54 GET /
+[*] 08-04-2024 14:54:54 GET /public/css/index.css
+[*] 08-04-2024 14:54:54 GET /public/css/index.css
+[*] 08-04-2024 14:54:58 GET /public/css/index.css
+[*] 08-04-2024 14:55:18 GET /
+[*] 08-04-2024 14:55:18 GET /public/css/index.css
+[+] 08-04-2024 15:04:01 Server is listening at 3000
+[*] 08-04-2024 15:04:07 GET /
+[*] 08-04-2024 15:04:07 GET /css/index.css
+[*] 08-04-2024 15:04:07 GET /css/index.css
+[*] 08-04-2024 15:04:11 GET /css/index.css
+[*] 08-04-2024 15:04:16 GET /
+[*] 08-04-2024 15:04:16 GET /css/index.css
+[*] 08-04-2024 15:04:16 GET /css/index.css
+[+] 08-04-2024 15:04:57 Server is listening at 3000
+[*] 08-04-2024 15:05:01 GET /
+[*] 08-04-2024 15:05:01 GET /css/index.css
+[+] 08-04-2024 15:06:19 Server is listening at 3000
+[*] 08-04-2024 15:06:29 GET /
+[*] 08-04-2024 15:06:29 GET /css/index.css
+[+] 08-04-2024 15:08:40 Server is listening at 3000
+[+] 08-04-2024 15:15:03 Server is listening at 3000
+[*] 08-04-2024 15:15:08 GET /
+[*] 08-04-2024 15:15:08 GET /css/index.css
+[*] 08-04-2024 15:15:08 GET /css/index.css
+[+] 08-04-2024 15:15:29 Server is listening at 3000
+[*] 08-04-2024 15:15:31 GET /
+[*] 08-04-2024 15:15:31 GET /css/index.css
+[*] 08-04-2024 15:15:31 GET /css/index.css
+[*] 08-04-2024 15:15:32 GET /
+[*] 08-04-2024 15:15:32 GET /css/index.css
+[*] 08-04-2024 15:15:44 GET /
+[*] 08-04-2024 15:15:44 GET /css/index.css
+[+] 08-04-2024 15:15:51 Server is listening at 3000
+[*] 08-04-2024 15:15:53 GET /
+[*] 08-04-2024 15:15:53 GET /css/index.css
+[*] 08-04-2024 15:15:54 GET /
+[*] 08-04-2024 15:15:54 GET /css/index.css
+[*] 08-04-2024 15:15:55 GET /
+[*] 08-04-2024 15:15:55 GET /css/index.css
+[*] 08-04-2024 15:15:55 GET /
+[*] 08-04-2024 15:15:55 GET /css/index.css
+[*] 08-04-2024 15:15:55 GET /
+[*] 08-04-2024 15:15:55 GET /css/index.css
+[*] 08-04-2024 15:15:56 GET /
+[*] 08-04-2024 15:15:56 GET /css/index.css
+[+] 08-04-2024 15:24:14 Server is listening at 3000
+[+] 08-04-2024 15:24:25 Server is listening at 3000
+[+] 08-04-2024 15:24:48 Server is listening at 3000
+[*] 08-04-2024 15:24:52 GET /
+[*] 08-04-2024 15:24:52 GET /css/index.css
+[+] 08-04-2024 15:25:26 Server is listening at 3000
+[*] 08-04-2024 15:25:29 GET /
+[*] 08-04-2024 15:25:29 GET /css/index.css
+[*] 08-04-2024 15:25:29 GET /css/index.css
+[*] 08-04-2024 15:25:31 GET /
+[*] 08-04-2024 15:25:31 GET /css/index.css
+[+] 08-04-2024 15:27:14 Server is listening at 3000
+[*] 08-04-2024 15:27:18 GET /
+[*] 08-04-2024 15:27:18 GET /css/index.css
+[*] 08-04-2024 15:27:19 GET /
+[*] 08-04-2024 15:27:19 GET /css/index.css
+[*] 08-04-2024 15:27:20 GET /
+[*] 08-04-2024 15:27:20 GET /css/index.css
+[*] 08-04-2024 15:27:21 GET /
+[*] 08-04-2024 15:27:21 GET /css/index.css
+[*] 08-04-2024 15:27:22 GET /
+[*] 08-04-2024 15:27:22 GET /css/index.css
+[*] 08-04-2024 15:27:22 GET /
+[*] 08-04-2024 15:27:22 GET /css/index.css
+[*] 08-04-2024 15:27:22 GET /
+[*] 08-04-2024 15:27:22 GET /css/index.css
+[+] 08-04-2024 15:27:31 Server is listening at 3000
+[*] 08-04-2024 15:27:33 GET /
+[*] 08-04-2024 15:27:33 GET /css/index.css
+[*] 08-04-2024 15:27:34 GET /
+[*] 08-04-2024 15:27:34 GET /css/index.css
+[*] 08-04-2024 15:27:36 GET /
+[*] 08-04-2024 15:27:36 GET /css/index.css
+[+] 08-04-2024 15:27:53 Server is listening at 3000
+[*] 08-04-2024 15:27:55 GET /
+[*] 08-04-2024 15:27:55 GET /css/index.css
+[*] 08-04-2024 15:27:56 GET /
+[*] 08-04-2024 15:27:56 GET /css/index.css
+[*] 08-04-2024 15:27:57 GET /
+[*] 08-04-2024 15:27:57 GET /css/index.css
+[+] 08-04-2024 15:28:32 Server is listening at 3000
+[*] 08-04-2024 15:28:40 GET /
+[*] 08-04-2024 15:28:40 GET /css/index.css
+[*] 08-04-2024 15:28:40 GET /
+[*] 08-04-2024 15:28:40 GET /css/index.css
+[*] 08-04-2024 15:28:40 GET /
+[*] 08-04-2024 15:28:40 GET /css/index.css
+[*] 08-04-2024 15:28:41 GET /
+[*] 08-04-2024 15:28:41 GET /css/index.css
+[*] 08-04-2024 15:28:41 GET /
+[*] 08-04-2024 15:28:41 GET /css/index.css
+[*] 08-04-2024 15:28:41 GET /
+[*] 08-04-2024 15:28:41 GET /css/index.css
+[*] 08-04-2024 15:28:42 GET /
+[*] 08-04-2024 15:28:42 GET /css/index.css
+[*] 08-04-2024 15:28:43 GET /
+[*] 08-04-2024 15:28:43 GET /css/index.css
+[+] 08-04-2024 15:28:53 Server is listening at 3000
+[*] 08-04-2024 15:28:55 GET /
+[*] 08-04-2024 15:28:55 GET /css/index.css
+[*] 08-04-2024 15:28:55 GET /
+[*] 08-04-2024 15:28:55 GET /css/index.css
+[*] 08-04-2024 15:28:56 GET /
+[*] 08-04-2024 15:28:56 GET /css/index.css
+[*] 08-04-2024 15:28:56 GET /
+[*] 08-04-2024 15:28:56 GET /css/index.css
+[*] 08-04-2024 15:28:57 GET /
+[*] 08-04-2024 15:28:57 GET /css/index.css
+[*] 08-04-2024 15:28:57 GET /
+[*] 08-04-2024 15:28:57 GET /css/index.css
+[+] 08-04-2024 15:34:15 Server is listening at 3000
+[+] 08-04-2024 15:34:28 Server is listening at 3000
+[*] 08-04-2024 15:34:34 GET /
+[*] 08-04-2024 15:34:34 GET /css/index.css
+[+] 08-04-2024 15:38:37 Server is listening at 3000
+[*] 08-04-2024 15:38:43 GET /
+[*] 08-04-2024 15:38:43 GET /css/index.css
+[*] 08-04-2024 15:38:43 GET /css/index.css
+[*] 08-04-2024 15:39:37 GET /
+[*] 08-04-2024 15:39:37 GET /css/index.css
+[*] 08-04-2024 15:39:37 GET /css/index.css
+[*] 08-04-2024 15:41:24 GET /
+[*] 08-04-2024 15:41:24 GET /css/index.css
+[+] 08-04-2024 15:54:42 Server is listening at 3000
+[+] 08-04-2024 15:54:50 Server is listening at 3000
+[+] 08-04-2024 15:55:23 Server is listening at 3000
+[*] 08-04-2024 15:55:26 GET /
+[*] 08-04-2024 15:55:26 GET /css/index.css
+[*] 08-04-2024 15:55:26 GET /css/index.css
+[*] 08-04-2024 15:55:36 GET /css/index.css
+[*] 08-04-2024 15:55:40 GET /
+[*] 08-04-2024 15:55:40 GET /css/index.css
+[*] 08-04-2024 15:55:40 GET /css/index.css
+[+] 08-04-2024 15:55:57 Server is listening at 3000
+[*] 08-04-2024 15:55:59 GET /
+[*] 08-04-2024 15:55:59 GET /css/index.css
+[*] 08-04-2024 15:55:59 GET /css/index.css
+[*] 08-04-2024 15:56:00 GET /
+[*] 08-04-2024 15:56:00 GET /css/index.css
+[*] 08-04-2024 15:56:01 GET /
+[*] 08-04-2024 15:56:01 GET /css/index.css
+[*] 08-04-2024 15:56:03 GET /
+[*] 08-04-2024 15:56:03 GET /css/index.css
+[+] 08-04-2024 15:57:23 Server is listening at 3000
+[*] 08-04-2024 15:57:27 GET /
+[*] 08-04-2024 15:57:27 GET /css/index.css
+[+] 08-04-2024 19:46:57 Server is listening at 3000
+[*] 08-04-2024 19:47:01 GET /
+[*] 08-04-2024 19:47:02 GET /css/index.css
+[*] 08-04-2024 19:47:02 GET /css/index.css
+[*] 08-04-2024 19:47:03 GET /favicon.ico
+[*] 08-04-2024 19:48:36 GET /
+[*] 08-04-2024 19:48:36 GET /css/index.css
+[*] 08-04-2024 19:48:36 GET /css/index.css
+[+] 08-04-2024 19:57:37 Server is listening at 3000
+[*] 08-04-2024 20:02:24 GET /
+[*] 08-04-2024 20:02:24 GET /css/index.css
+[*] 08-04-2024 20:02:24 GET /css/index.css
+[*] 08-04-2024 20:02:25 GET /
+[*] 08-04-2024 20:02:25 GET /css/index.css
+[*] 08-04-2024 20:02:26 GET /
+[*] 08-04-2024 20:02:26 GET /css/index.css
+[*] 08-04-2024 20:02:26 GET /
+[*] 08-04-2024 20:02:26 GET /css/index.css
+[*] 08-04-2024 20:02:42 GET /css/index.css
+[*] 08-04-2024 20:02:47 GET /
+[*] 08-04-2024 20:02:47 GET /css/index.css
+[*] 08-04-2024 20:02:47 GET /css/index.css
+[+] 08-04-2024 20:03:23 Server is listening at 3000
+[*] 08-04-2024 20:03:30 GET /
+[*] 08-04-2024 20:03:30 GET /css/index.css
+[*] 08-04-2024 20:03:30 GET /css/index.css
+[*] 08-04-2024 20:03:31 GET /
+[*] 08-04-2024 20:03:31 GET /css/index.css
+[*] 08-04-2024 20:03:33 GET /
+[*] 08-04-2024 20:03:33 GET /css/index.css
+[*] 08-04-2024 20:03:34 GET /
+[*] 08-04-2024 20:03:34 GET /css/index.css
+[*] 08-04-2024 20:03:35 GET /
+[*] 08-04-2024 20:03:35 GET /css/index.css
+[+] 08-04-2024 20:04:57 Server is listening at 3000
+[*] 08-04-2024 20:04:57 GET /
+[*] 08-04-2024 20:04:57 GET /public/css/index.css
+[*] 08-04-2024 20:04:57 GET /public/css/index.css
+[+] 08-04-2024 20:05:39 Server is listening at 3000
+[*] 08-04-2024 20:05:43 GET /
+[*] 08-04-2024 20:05:43 GET /css/index.css
+[*] 08-04-2024 20:05:43 GET /css/index.css
+[+] 08-04-2024 20:14:37 Server is listening at 3000
+[*] 08-04-2024 20:14:43 GET /
+[+] 08-04-2024 20:15:35 Server is listening at 3000
+[*] 08-04-2024 20:15:38 GET /
+[*] 08-04-2024 20:15:42 GET /
+[*] 08-04-2024 20:16:04 GET /
+[+] 08-04-2024 20:19:56 Server is listening at 3000
+[*] 08-04-2024 20:20:01 GET /
+[*] 08-04-2024 20:20:32 GET /
+[+] 08-04-2024 20:21:25 Server is listening at 3000
+[*] 08-04-2024 20:21:30 GET /
+[*] 08-04-2024 20:21:52 GET /
+[+] 08-04-2024 20:26:32 Server is listening at 3000
+[+] 08-04-2024 20:26:43 Server is listening at 3000
+[*] 08-04-2024 20:26:48 GET /
+[*] 08-04-2024 20:26:48 GET /css/index.css
+[*] 08-04-2024 20:26:48 GET /css/index.css
+[*] 08-04-2024 20:26:55 GET /css/index.css
+[*] 08-04-2024 20:26:59 GET /
+[*] 08-04-2024 20:27:00 GET /css/index.css
+[*] 08-04-2024 20:27:00 GET /css/index.css
+[+] 08-04-2024 20:38:22 Server is listening at 3000
+[*] 08-04-2024 20:38:26 GET /
+[*] 08-04-2024 20:38:41 GET /
+[+] 08-04-2024 21:15:37 Server is listening at 3000
+[*] 08-04-2024 21:15:44 GET /
+[*] 08-04-2024 21:16:05 GET /
+[+] 08-04-2024 21:54:42 Server is listening at 3000
+[*] 08-04-2024 21:54:46 GET /
+[*] 08-04-2024 21:54:46 GET /js/index.js
+[+] 08-04-2024 21:57:18 Server is listening at 3000
+[*] 08-04-2024 21:57:21 GET /
+[*] 08-04-2024 21:57:21 GET /js/index.js
+[*] 08-04-2024 21:57:22 GET /
+[*] 08-04-2024 21:57:22 GET /js/index.js
+[*] 08-04-2024 21:57:22 GET /
+[*] 08-04-2024 21:57:23 GET /js/index.js
+[+] 08-04-2024 21:58:56 Server is listening at 3000
+[*] 08-04-2024 21:59:01 GET /
+[*] 08-04-2024 21:59:01 GET /css/index.css/
+[*] 08-04-2024 21:59:01 GET /js/index.js/
+[+] 08-04-2024 22:00:03 Server is listening at 3000
+[*] 08-04-2024 22:00:07 GET /
+[*] 08-04-2024 22:00:07 GET /css/index.css/
+[*] 08-04-2024 22:00:07 GET /js/index.js/
+[*] 08-04-2024 22:00:08 GET /
+[*] 08-04-2024 22:00:08 GET /css/index.css/
+[*] 08-04-2024 22:00:08 GET /js/index.js/
+[+] 08-04-2024 22:00:32 Server is listening at 3000
+[*] 08-04-2024 22:00:37 GET /
+[*] 08-04-2024 22:00:37 GET /css/index.css/
+[*] 08-04-2024 22:00:37 GET /js/index.js/
+[+] 08-04-2024 22:00:51 Server is listening at 3000
+[*] 08-04-2024 22:00:54 GET /
+[*] 08-04-2024 22:00:54 GET /js/index.js/
+[*] 08-04-2024 22:00:54 GET /css/index.css/
+[+] 08-04-2024 22:01:11 Server is listening at 3000
+[+] 08-04-2024 22:01:20 Server is listening at 3000
+[*] 08-04-2024 22:01:24 GET /
+[*] 08-04-2024 22:01:24 GET /js/index.js/
+[*] 08-04-2024 22:01:24 GET /css/index.css/
+[*] 08-04-2024 22:01:34 GET /
+[*] 08-04-2024 22:01:34 GET /js/index.js/
+[*] 08-04-2024 22:01:34 GET /css/index.css/
+[+] 08-04-2024 22:01:54 Server is listening at 3000
+[*] 08-04-2024 22:01:57 GET /
+[*] 08-04-2024 22:01:57 GET /js/index.js/
+[*] 08-04-2024 22:01:57 GET /css/index.css/
+[*] 08-04-2024 22:02:03 GET /
+[*] 08-04-2024 22:02:03 GET /css/index.css/
+[*] 08-04-2024 22:02:03 GET /js/index.js/
+[+] 08-04-2024 22:10:22 Server is listening at 3000
+[+] 08-04-2024 22:10:32 Server is listening at 3000
+[*] 08-04-2024 22:10:38 GET /
+[*] 08-04-2024 22:10:38 GET /css/index.css/
+[*] 08-04-2024 22:10:38 GET /js/index.js/
+[*] 08-04-2024 22:10:38 GET /css/index.css/
+[*] 08-04-2024 22:10:39 GET /
+[*] 08-04-2024 22:10:39 GET /css/index.css/
+[*] 08-04-2024 22:10:39 GET /js/index.js/
+[+] 08-04-2024 22:11:35 Server is listening at 3000
+[*] 08-04-2024 22:11:39 GET /
+[*] 08-04-2024 22:11:39 GET /css/index.css/
+[*] 08-04-2024 22:11:40 GET /
+[*] 08-04-2024 22:11:40 GET /css/index.css/
+[*] 08-04-2024 22:11:41 GET /
+[*] 08-04-2024 22:11:41 GET /css/index.css/
+[*] 08-04-2024 22:11:42 GET /
+[*] 08-04-2024 22:11:42 GET /css/index.css/
+[*] 08-04-2024 22:11:42 GET /
+[*] 08-04-2024 22:11:42 GET /css/index.css/
+[+] 08-04-2024 22:12:16 Server is listening at 3000
+[*] 08-04-2024 22:12:20 GET /
+[*] 08-04-2024 22:12:20 GET /css/index.css/
+[*] 08-04-2024 22:12:21 GET /
+[*] 08-04-2024 22:12:21 GET /css/index.css/
+[*] 08-04-2024 22:12:21 GET /
+[*] 08-04-2024 22:12:21 GET /css/index.css/
+[*] 08-04-2024 22:12:22 GET /
+[*] 08-04-2024 22:12:22 GET /css/index.css/
+[*] 08-04-2024 22:12:22 GET /
+[*] 08-04-2024 22:12:22 GET /css/index.css/
+[+] 08-04-2024 22:14:16 Server is listening at 3000
+[*] 08-04-2024 22:14:19 GET /
+[*] 08-04-2024 22:14:19 GET /css/index.css/
+[*] 08-04-2024 22:14:20 GET /
+[*] 08-04-2024 22:14:20 GET /css/index.css/
+[*] 08-04-2024 22:14:20 GET /
+[*] 08-04-2024 22:14:20 GET /css/index.css/
+[*] 08-04-2024 22:14:29 GET /
+[*] 08-04-2024 22:14:29 GET /css/index.css/
+[+] 08-04-2024 22:17:15 Server is listening at 3000
+[*] 08-04-2024 22:17:22 GET /
+[*] 08-04-2024 22:17:22 GET /css/index.css/
+[*] 08-04-2024 22:17:23 GET /
+[*] 08-04-2024 22:17:23 GET /css/index.css/
+[*] 08-04-2024 22:17:23 GET /
+[*] 08-04-2024 22:17:23 GET /css/index.css/
+[*] 08-04-2024 22:17:23 GET /
+[*] 08-04-2024 22:17:23 GET /css/index.css/
+[*] 08-04-2024 22:17:23 GET /
+[*] 08-04-2024 22:17:23 GET /css/index.css/
+[*] 08-04-2024 22:17:24 GET /
+[*] 08-04-2024 22:17:24 GET /css/index.css/
+[*] 08-04-2024 22:17:24 GET /
+[*] 08-04-2024 22:17:24 GET /css/index.css/
+[*] 08-04-2024 22:17:24 GET /
+[*] 08-04-2024 22:17:24 GET /css/index.css/
+[*] 08-04-2024 22:17:25 GET /
+[*] 08-04-2024 22:17:25 GET /css/index.css/
+[*] 08-04-2024 22:17:25 GET /
+[*] 08-04-2024 22:17:25 GET /css/index.css/
+[*] 08-04-2024 22:17:25 GET /
+[*] 08-04-2024 22:17:25 GET /css/index.css/
+[*] 08-04-2024 22:17:25 GET /
+[*] 08-04-2024 22:17:25 GET /css/index.css/
+[*] 08-04-2024 22:17:25 GET /
+[*] 08-04-2024 22:17:26 GET /css/index.css/
+[*] 08-04-2024 22:17:26 GET /
+[*] 08-04-2024 22:17:26 GET /css/index.css/
+[*] 08-04-2024 22:17:26 GET /
+[*] 08-04-2024 22:17:26 GET /css/index.css/
+[*] 08-04-2024 22:17:26 GET /
+[*] 08-04-2024 22:17:26 GET /css/index.css/
+[*] 08-04-2024 22:17:30 GET /
+[*] 08-04-2024 22:17:30 GET /css/index.css/
+[+] 08-04-2024 22:18:48 Server is listening at 3000
+[*] 08-04-2024 22:18:51 GET /
+[*] 08-04-2024 22:18:51 GET /css/index.css/
+[*] 08-04-2024 22:18:52 GET /
+[*] 08-04-2024 22:18:52 GET /css/index.css/
+[*] 08-04-2024 22:18:52 GET /
+[*] 08-04-2024 22:18:52 GET /css/index.css/
+[*] 08-04-2024 22:18:53 GET /
+[*] 08-04-2024 22:18:53 GET /css/index.css/
+[*] 08-04-2024 22:18:53 GET /
+[*] 08-04-2024 22:18:53 GET /css/index.css/
+[*] 08-04-2024 22:18:55 GET /
+[*] 08-04-2024 22:18:56 GET /css/index.css/
+[+] 08-04-2024 22:21:48 Server is listening at 3000
+[*] 08-04-2024 22:21:52 GET /
+[*] 08-04-2024 22:21:52 GET /css/index.css/
+[*] 08-04-2024 22:21:53 GET /
+[*] 08-04-2024 22:21:53 GET /css/index.css/
+[*] 08-04-2024 22:21:53 GET /
+[*] 08-04-2024 22:21:53 GET /css/index.css/
+[*] 08-04-2024 22:21:54 GET /
+[*] 08-04-2024 22:21:54 GET /css/index.css/
+[*] 08-04-2024 22:21:54 GET /
+[*] 08-04-2024 22:21:54 GET /css/index.css/
+[*] 08-04-2024 22:22:02 GET /
+[*] 08-04-2024 22:22:02 GET /css/index.css/
+[+] 08-04-2024 22:29:15 Server is listening at 3000
+[*] 08-04-2024 22:29:19 GET /
+[*] 08-04-2024 22:29:19 GET /css/index.css/
+[*] 08-04-2024 22:29:20 GET /
+[*] 08-04-2024 22:29:20 GET /css/index.css/
+[*] 08-04-2024 22:29:22 GET /
+[*] 08-04-2024 22:29:22 GET /css/index.css/
+[*] 08-04-2024 22:29:31 GET /css/index.css/
+[*] 08-04-2024 22:29:38 GET /
+[*] 08-04-2024 22:29:38 GET /css/index.css/
+[+] 08-04-2024 22:32:37 Server is listening at 3000
+[*] 08-04-2024 22:32:46 GET /
+[*] 08-04-2024 22:32:46 GET /css/index.css/
+[*] 08-04-2024 22:32:48 GET /
+[*] 08-04-2024 22:32:49 GET /css/index.css/
+[+] 08-04-2024 22:35:23 Server is listening at 3000
+[*] 08-04-2024 22:35:28 GET /
+[*] 08-04-2024 22:35:28 GET /css/index.css/
+[*] 08-04-2024 22:35:30 GET /
+[*] 08-04-2024 22:35:30 GET /css/index.css/
+[+] 08-04-2024 22:36:18 Server is listening at 3000
+[*] 08-04-2024 22:36:22 GET /
+[*] 08-04-2024 22:36:22 GET /css/index.css/
+[*] 08-04-2024 22:36:22 GET /css/index.css/
+[*] 08-04-2024 22:36:32 GET /css/index.css/
+[*] 08-04-2024 22:36:37 GET /
+[*] 08-04-2024 22:36:37 GET /css/index.css/
+[*] 08-04-2024 22:37:13 GET /css/index.css/
+[+] 08-04-2024 22:39:22 Server is listening at 3000
+[*] 08-04-2024 22:39:26 GET /
+[*] 08-04-2024 22:39:26 GET /css/index.css/
+[+] 08-04-2024 22:40:34 Server is listening at 3000
+[*] 08-04-2024 22:40:39 GET /
+[*] 08-04-2024 22:40:39 GET /css/index.css/
+[*] 08-04-2024 22:40:39 GET /css/index.css/
+[+] 08-04-2024 22:42:53 Server is listening at 3000
+[*] 08-04-2024 22:42:58 GET /
+[*] 08-04-2024 22:42:58 GET /css/index.css/
+[+] 08-04-2024 22:47:49 Server is listening at 3000
+[*] 08-04-2024 22:47:53 GET /
+[*] 08-04-2024 22:47:53 GET /css/index.css/
+[*] 08-04-2024 22:47:55 GET /
+[*] 08-04-2024 22:47:55 GET /css/index.css/
+[*] 08-04-2024 22:47:56 GET /
+[*] 08-04-2024 22:47:56 GET /css/index.css/
+[*] 08-04-2024 22:47:56 GET /
+[*] 08-04-2024 22:47:56 GET /css/index.css/
+[*] 08-04-2024 22:47:56 GET /
+[*] 08-04-2024 22:47:56 GET /css/index.css/
+[*] 08-04-2024 22:47:57 GET /
+[*] 08-04-2024 22:47:57 GET /css/index.css/
+[*] 08-04-2024 22:47:57 GET /
+[*] 08-04-2024 22:47:57 GET /css/index.css/
+[*] 08-04-2024 22:47:57 GET /
+[*] 08-04-2024 22:47:57 GET /css/index.css/
+[*] 08-04-2024 22:48:01 GET /
+[*] 08-04-2024 22:48:01 GET /css/index.css/
+[+] 08-04-2024 22:48:44 Server is listening at 3000
+[*] 08-04-2024 22:48:49 GET /
+[*] 08-04-2024 22:48:49 GET /css/index.css/
+[*] 08-04-2024 22:48:50 GET /
+[*] 08-04-2024 22:48:50 GET /css/index.css/
+[*] 08-04-2024 22:48:51 GET /
+[*] 08-04-2024 22:48:51 GET /css/index.css/
+[*] 08-04-2024 22:48:52 GET /
+[*] 08-04-2024 22:48:52 GET /css/index.css/
+[*] 08-04-2024 22:48:52 GET /
+[*] 08-04-2024 22:48:53 GET /css/index.css/
+[*] 08-04-2024 22:48:53 GET /
+[*] 08-04-2024 22:48:53 GET /css/index.css/
+[*] 08-04-2024 22:48:53 GET /
+[*] 08-04-2024 22:48:53 GET /css/index.css/
+[*] 08-04-2024 22:48:53 GET /
+[*] 08-04-2024 22:48:53 GET /css/index.css/
+[+] 08-04-2024 22:52:12 Server is listening at 3000
+[*] 08-04-2024 22:52:18 GET /
+[*] 08-04-2024 22:52:18 GET /css/index.css/
+[*] 08-04-2024 22:52:19 GET /
+[*] 08-04-2024 22:52:19 GET /css/index.css/
+[*] 08-04-2024 22:52:19 GET /
+[*] 08-04-2024 22:52:19 GET /css/index.css/
+[*] 08-04-2024 22:52:19 GET /
+[*] 08-04-2024 22:52:19 GET /css/index.css/
+[*] 08-04-2024 22:52:20 GET /
+[*] 08-04-2024 22:52:20 GET /css/index.css/
+[*] 08-04-2024 22:52:20 GET /
+[*] 08-04-2024 22:52:20 GET /css/index.css/
+[*] 08-04-2024 22:52:20 GET /
+[*] 08-04-2024 22:52:20 GET /css/index.css/
+[*] 08-04-2024 22:52:20 GET /
+[*] 08-04-2024 22:52:20 GET /css/index.css/
+[*] 08-04-2024 22:52:21 GET /
+[*] 08-04-2024 22:52:21 GET /css/index.css/
+[+] 08-04-2024 22:57:03 Server is listening at 3000
+[*] 08-04-2024 22:57:07 GET /
+[*] 08-04-2024 22:57:07 GET /css/index.css/
+[*] 08-04-2024 22:57:08 GET /
+[*] 08-04-2024 22:57:08 GET /css/index.css/
+[*] 08-04-2024 22:57:08 GET /
+[*] 08-04-2024 22:57:08 GET /css/index.css/
+[*] 08-04-2024 22:57:08 GET /
+[*] 08-04-2024 22:57:08 GET /css/index.css/
+[*] 08-04-2024 22:57:09 GET /
+[*] 08-04-2024 22:57:09 GET /css/index.css/
+[+] 08-04-2024 23:12:35 Server is listening at 3000
+[*] 08-04-2024 23:12:40 GET /
+[*] 08-04-2024 23:12:40 GET /css/index.css/
+[+] 08-04-2024 23:14:32 Server is listening at 3000
+[*] 08-04-2024 23:14:39 GET /
+[*] 08-04-2024 23:14:39 GET /css/index.css/
+[*] 08-04-2024 23:14:47 GET /
+[*] 08-04-2024 23:14:47 GET /css/index.css/
+[+] 08-04-2024 23:17:10 Server is listening at 3000
+[*] 08-04-2024 23:17:18 GET /
+[*] 08-04-2024 23:17:18 GET /css/index.css/
+[*] 08-04-2024 23:17:19 GET /
+[*] 08-04-2024 23:17:19 GET /css/index.css/
+[*] 08-04-2024 23:17:19 GET /
+[*] 08-04-2024 23:17:19 GET /css/index.css/
+[*] 08-04-2024 23:17:26 GET /
+[*] 08-04-2024 23:17:27 GET /css/index.css/
+[+] 08-04-2024 23:21:36 Server is listening at 3000
+[*] 08-04-2024 23:21:39 GET /
+[*] 08-04-2024 23:21:40 GET /css/index.css/
+[*] 08-04-2024 23:21:40 GET /
+[*] 08-04-2024 23:21:40 GET /css/index.css/
+[*] 08-04-2024 23:21:40 GET /
+[*] 08-04-2024 23:21:41 GET /css/index.css/
+[*] 08-04-2024 23:21:41 GET /
+[*] 08-04-2024 23:21:41 GET /css/index.css/
+[*] 08-04-2024 23:21:41 GET /
+[*] 08-04-2024 23:21:41 GET /css/index.css/
+[*] 08-04-2024 23:21:41 GET /
+[*] 08-04-2024 23:21:41 GET /css/index.css/
+[*] 08-04-2024 23:21:42 GET /
+[*] 08-04-2024 23:21:42 GET /css/index.css/
+[*] 08-04-2024 23:21:42 GET /
+[*] 08-04-2024 23:21:42 GET /css/index.css/
+[*] 08-04-2024 23:21:42 GET /
+[*] 08-04-2024 23:21:42 GET /css/index.css/
+[*] 08-04-2024 23:21:42 GET /
+[*] 08-04-2024 23:21:42 GET /css/index.css/
+[+] 08-04-2024 23:24:57 Server is listening at 3000
+[*] 08-04-2024 23:25:07 GET /
+[*] 08-04-2024 23:25:08 GET /css/index.css/
+[*] 08-04-2024 23:29:35 GET /
+[*] 08-04-2024 23:29:35 GET /css/index.css/
+[*] 08-04-2024 23:29:35 GET /css/index.css/
+[*] 08-04-2024 23:29:59 GET /
+[*] 08-04-2024 23:29:59 GET /css/index.css/
+[+] 08-04-2024 23:31:48 Server is listening at 3000
+[*] 08-04-2024 23:31:53 GET /
+[*] 08-04-2024 23:31:53 GET /css/index.css/
+[+] 08-04-2024 23:56:38 Server is listening at http://127.0.0.1:3000
+[+] 08-04-2024 23:57:01 Server is listening at http://127.0.0.1:3000
+[*] 08-04-2024 23:57:39 GET /
+[*] 08-04-2024 23:57:39 GET /css/index.css
+[*] 08-04-2024 23:57:39 GET /css/index.css
+[*] 08-04-2024 23:57:39 GET /favicon.ico
+[+] 08-04-2024 23:58:03 Server is listening at http://127.0.0.1:3000
+[+] 08-04-2024 23:58:08 Server is listening at http://127.0.0.1:3000
+[+] 08-04-2024 23:58:09 Server is listening at http://127.0.0.1:3000
+[+] 08-04-2024 23:58:18 Server is listening at http://127.0.0.1:3000
+[*] 08-04-2024 23:58:22 GET /

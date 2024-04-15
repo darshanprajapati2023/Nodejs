@@ -1,0 +1,63 @@
+--------Logs--------
+[+] 13-04-2024 10:58:45 Server is listening at http://127.0.0.1:3000
+[*] 13-04-2024 10:59:16 GET /
+[*] 13-04-2024 10:59:52 POST /api/teacher/login
+[*] 13-04-2024 11:00:24 POST /api/teacher/login
+[+] 13-04-2024 11:09:21 Server is listening at http://127.0.0.1:3000
+[*] 13-04-2024 11:09:27 GET /
+[*] 13-04-2024 11:09:45 POST /api/teacher/login
+[*] 13-04-2024 11:10:10 POST /api/teacher/login
+[+] 13-04-2024 11:11:55 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 11:12:40 Server is listening at http://127.0.0.1:3000
+[*] 13-04-2024 11:12:51 POST /api/teacher/login
+[*] 13-04-2024 11:12:53 POST /api/teacher/login
+[*] 13-04-2024 11:12:56 GET /
+[*] 13-04-2024 11:13:02 POST /api/teacher/login
+[*] 13-04-2024 11:13:13 POST /api/teacher/login
+[+] 13-04-2024 11:17:29 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 11:19:12 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 11:25:06 Server is listening at http://127.0.0.1:3000
+[*] 13-04-2024 11:25:10 GET /
+[*] 13-04-2024 11:25:16 POST /api/teacher/login
+[*] 13-04-2024 11:25:16 GET /dashboard
+[+] 13-04-2024 11:26:27 Server is listening at http://127.0.0.1:3000
+[*] 13-04-2024 11:26:38 GET /dashboard
+[*] 13-04-2024 11:26:44 GET /dashboard
+[*] 13-04-2024 11:26:50 GET /
+[*] 13-04-2024 11:27:00 POST /api/teacher/login
+[*] 13-04-2024 11:27:00 GET /dashboard
+[*] 13-04-2024 11:27:26 GET /dashboard
+[*] 13-04-2024 11:27:38 GET /
+[*] 13-04-2024 11:27:48 POST /api/teacher/login
+[*] 13-04-2024 11:27:48 GET /dashboard
+[*] 13-04-2024 11:32:25 GET /dashboard
+[*] 13-04-2024 11:32:43 GET /
+[*] 13-04-2024 11:32:50 POST /api/teacher/login
+[*] 13-04-2024 11:32:50 GET /dashboard
+[*] 13-04-2024 11:37:59 GET /
+[*] 13-04-2024 11:38:08 POST /api/teacher/login
+[*] 13-04-2024 11:38:08 GET /dashboard
+[*] 13-04-2024 11:38:41 GET /dashboard
+[*] 13-04-2024 11:42:12 GET /
+[*] 13-04-2024 11:42:18 POST /api/teacher/login
+[*] 13-04-2024 11:42:18 GET /dashboard
+[*] 13-04-2024 11:42:28 GET /dashboard
+[+] 13-04-2024 11:45:43 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 11:45:52 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 11:46:17 Server is listening at http://127.0.0.1:3000
+[*] 13-04-2024 11:47:36 POST /api/teacher/login
+[*] 13-04-2024 11:47:36 GET /dashboard
+[*] 13-04-2024 11:47:44 GET /
+[*] 13-04-2024 11:47:52 GET /
+[*] 13-04-2024 11:47:53 GET /
+[*] 13-04-2024 11:47:53 GET /
+[*] 13-04-2024 11:47:53 GET /
+[*] 13-04-2024 11:47:54 GET /
+[*] 13-04-2024 11:48:00 POST /api/teacher/login
+[*] 13-04-2024 11:48:00 GET /dashboard
+[+] 13-04-2024 12:00:39 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 12:00:53 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 12:02:33 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 12:02:50 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 12:03:59 Server is listening at http://127.0.0.1:3000
+[+] 13-04-2024 12:05:13 Server is listening at http://127.0.0.1:3000

@@ -1,0 +1,52 @@
+--------Logs--------
+[+] 04-04-2024 01:03:56 Server is listening at 3000
+[+] 04-04-2024 01:04:21 Server is listening at 3000
+[+] 04-04-2024 01:04:24 Server is listening at 3000
+[+] 04-04-2024 01:04:43 Server is listening at 3000
+[*] 04-04-2024 01:06:39 GET /api/teacher
+[*] 04-04-2024 01:07:06 GET /api/teacher/1
+[*] 04-04-2024 01:07:27 GET /api/fstsbjsv
+[*] 04-04-2024 01:08:06 POST /api/teacher/123
+[+] 04-04-2024 01:12:05 Server is listening at 3000
+[+] 04-04-2024 01:14:29 Server is listening at 3000
+[+] 04-04-2024 01:14:45 Server is listening at 3000
+[+] 04-04-2024 01:15:03 Server is listening at 3000
+[+] 04-04-2024 01:26:34 Server is listening at 3000
+[+] 04-04-2024 01:26:45 Server is listening at 3000
+[+] 04-04-2024 01:28:07 Server is listening at 3000
+[+] 04-04-2024 01:29:13 Server is listening at 3000
+[+] 04-04-2024 01:30:32 Server is listening at 3000
+[+] 04-04-2024 01:31:49 Server is listening at 3000
+[+] 04-04-2024 01:35:08 Server is listening at 3000
+[+] 04-04-2024 01:35:08 Server is listening at 3000
+[+] 04-04-2024 01:35:30 Server is listening at 3000
+[+] 04-04-2024 01:35:45 Server is listening at 3000
+[*] 04-04-2024 01:36:22 GET /api/teacher/
+[+] 04-04-2024 01:37:05 Server is listening at 3000
+[+] 04-04-2024 01:37:55 Server is listening at 3000
+[+] 04-04-2024 01:41:09 Server is listening at 3000
+[+] 04-04-2024 01:45:41 Server is listening at 3000
+[+] 04-04-2024 01:46:31 Server is listening at 3000
+[+] 04-04-2024 01:47:03 Server is listening at 3000
+[*] 04-04-2024 01:47:16 GET /api/teacher
+[*] 04-04-2024 01:47:27 GET /api/teacher/660db2c6bb639c6a62113954
+[+] 04-04-2024 01:51:10 Server is listening at 3000
+[+] 04-04-2024 01:51:22 Server is listening at 3000
+[+] 04-04-2024 01:51:22 Server is listening at 3000
+[+] 04-04-2024 01:51:22 Server is listening at 3000
+[+] 04-04-2024 01:51:36 Server is listening at 3000
+[+] 04-04-2024 01:52:35 Server is listening at 3000
+[+] 04-04-2024 01:52:44 Server is listening at 3000
+[+] 04-04-2024 01:52:50 Server is listening at 3000
+[+] 04-04-2024 02:09:45 Server is listening at 3000
+[+] 04-04-2024 02:10:03 Server is listening at 3000
+[*] 04-04-2024 02:10:45 GET /api/teacher
+[*] 04-04-2024 02:11:32 DELETE /api/teacher/660db2c6bb639c6a62113954
+[*] 04-04-2024 02:12:14 GET /api/teacher
+[+] 04-04-2024 13:09:56 Server is listening at 3000
+[+] 04-04-2024 13:09:59 Server is listening at 3000
+[+] 04-04-2024 13:10:17 Server is listening at 3000
+[*] 04-04-2024 13:10:26 GET /
+[*] 04-04-2024 13:10:26 GET /styles.css
+[*] 04-04-2024 13:10:26 GET /favicon.ico
+[+] 04-04-2024 13:10:42 Server is listening at 3000

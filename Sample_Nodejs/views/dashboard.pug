@@ -1,0 +1,100 @@
+doctype html
+html(lang="en")
+  head
+    include includes/bootstrap.pug
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+body
+    header.navbar.navbar-dark.sticky-top.bg-dark.flex-md-nowrap.p-0.shadow
+      a.navbar-brand.col-md-3.col-lg-2.me-0.px-3(href="#") Teacher Dashboard
+      button.navbar-toggler.position-absolute.d-md-none.collapsed(type="button", data-bs-toggle="collapse", data-bs-target="#sidebarMenu", aria-controls="sidebarMenu", aria-expanded="false", aria-label="Toggle navigation")
+        span.navbar-toggler-icon
+      input.form-control.form-control-dark.w-100(type="text", placeholder="Search", aria-label="Search")
+      div.navbar-nav
+        div.nav-item.text-nowrap
+          a.nav-link.px-3(href="#") Sign out
+
+    .container-fluid
+      .row
+        nav#sidebarMenu.col-md-3.col-lg-2.d-md-block.bg-dark.sidebar
+          .position-sticky.pt-3
+            ul.nav.flex-column
+              li.nav-item
+                a.nav-link.active(href="#", aria-current="page")
+                  span(data-feather="home")
+                  | Dashboard
+              li.nav-item
+                a.nav-link(href="#")
+                  span(data-feather="file")
+                  | Courses
+              li.nav-item
+                a.nav-link(href="#")
+                  span(data-feather="shopping-cart")
+                  | Schedule
+              li.nav-item
+                a.nav-link(href="#")
+                  span(data-feather="users")
+                  | Students
+              li.nav-item
+                a.nav-link(href="#")
+                  span(data-feather="bar-chart-2")
+                  | Assignments
+              li.nav-item
+                a.nav-link(href="#")
+                  span(data-feather="layers")
+                  | Messages
+
+        main.col-md-9.ms-sm-auto.col-lg-10.px-md-4
+          .d-flex.justify-content-between.flex-wrap.flex-md-nowrap.align-items-center.pt-3.pb-2.mb-3.border-bottom
+            h1.h2 Dashboard
+
+          .row
+            .col-md-6
+              .card.mb-4.shadow-sm
+                .card-header
+                  h4.my-0.font-weight-normal Text Widget
+                .card-body
+                  p This is a text widget. You can put any text or HTML content here.
+            .col-md-6
+              .card.mb-4.shadow-sm
+                .card-header
+                  h4.my-0.font-weight-normal Chart Widget
+                .card-body
+                  canvas#myChart(width="100%", height="400")
+
+              script.
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var myChart = new Chart(ctx, {
+                  type: 'line',
+                  data: {
+                    labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+                    datasets: [{
+                      label: '# of Votes',
+                      data: [12, 19, 3, 5, 2, 3],
+                      backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)'
+                      ],
+                      borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)'
+                      ],
+                      borderWidth: 1
+                    }]
+                  },
+                  options: {
+                    scales: {
+                      y: {
+                        beginAtZero: true
+                      }
+                    }
+                  }
+                });
+script(src="js/dashboard.js")

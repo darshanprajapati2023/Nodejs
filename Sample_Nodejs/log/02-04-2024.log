@@ -1,0 +1,186 @@
+--------Logs--------
+[+] 02-04-2024 01:24:05 Connected with DB
+[+] 02-04-2024 01:25:06 Connected with DB
+[+] 02-04-2024 01:29:09 Connected with DB
+[+] 02-04-2024 09:23:51 Connected with DB
+[+] 02-04-2024 09:24:41 Connected with DB
+[+] 02-04-2024 09:24:41 Connected with DB
+[+] 02-04-2024 09:40:30 Server is listening at 3000
+[+] 02-04-2024 09:45:30 Server is listening at 3000
+[+] 02-04-2024 09:50:59 Server is listening at 3000
+[+] 02-04-2024 09:52:02 Server is listening at 3000
+[+] 02-04-2024 09:52:04 Server is listening at 3000
+[+] 02-04-2024 09:52:04 Server is listening at 3000
+[+] 02-04-2024 09:52:05 Server is listening at 3000
+[+] 02-04-2024 11:27:48 Server is listening at 3000
+[+] 02-04-2024 11:33:56 Server is listening at 4000
+[+] 02-04-2024 11:34:52 Server is listening at 3000
+[+] 02-04-2024 11:44:14 Server is listening at 3000
+[+] 02-04-2024 12:19:50 Server is listening at 4000
+[+] 02-04-2024 12:21:24 Server is listening at 4000
+[+] 02-04-2024 12:24:07 Server is listening at 4000
+[+] 02-04-2024 12:24:12 Server is listening at 4000
+[*] 02-04-2024 12:26:52 GET /home
+[*] 02-04-2024 12:26:52 GET /favicon.ico
+[+] 02-04-2024 12:35:33 Server is listening at 5000
+[*] 02-04-2024 12:35:45 GET /
+[*] 02-04-2024 12:35:45 GET /favicon.ico
+[*] 02-04-2024 12:36:02 GET /home
+[*] 02-04-2024 12:36:02 GET /favicon.ico
+[+] 02-04-2024 12:37:26 Server is listening at 5000
+[*] 02-04-2024 12:37:33 GET /home
+[*] 02-04-2024 12:37:33 GET /favicon.ico
+[+] 02-04-2024 12:43:21 Server is listening at 5000
+[+] 02-04-2024 12:46:04 Server is listening at 5000
+[+] 02-04-2024 12:46:05 Server is listening at 5000
+[+] 02-04-2024 12:59:33 Server is listening at 3000
+[*] 02-04-2024 13:00:14 GET /
+[*] 02-04-2024 13:00:15 GET /favicon.ico
+[*] 02-04-2024 13:00:24 GET /home
+[*] 02-04-2024 13:00:24 GET /favicon.ico
+[+] 02-04-2024 13:01:29 Server is listening at 3000
+[+] 02-04-2024 13:02:08 Server is listening at 3000
+[+] 02-04-2024 13:02:23 Server is listening at 3000
+[+] 02-04-2024 16:04:03 Server is listening at 3000
+[*] 02-04-2024 16:04:08 GET /
+[*] 02-04-2024 16:04:09 GET /favicon.ico
+[*] 02-04-2024 16:04:14 GET /home
+[*] 02-04-2024 16:04:14 GET /favicon.ico
+[+] 02-04-2024 16:13:15 Server is listening at 3000
+[+] 02-04-2024 16:13:45 Server is listening at 3000
+[*] 02-04-2024 16:25:41 GET /
+[*] 02-04-2024 16:26:41 GET /homr
+[*] 02-04-2024 16:26:48 GET /home
+[+] 02-04-2024 16:33:16 Server is listening at 3000
+[*] 02-04-2024 16:33:41 GET /home
+[*] 02-04-2024 16:33:48 GET /index
+[+] 02-04-2024 16:34:11 Server is listening at 3000
+[*] 02-04-2024 16:34:17 GET /index
+[*] 02-04-2024 16:34:25 GET /home
+[+] 02-04-2024 16:35:14 Server is listening at 3000
+[+] 02-04-2024 16:35:31 Server is listening at 3000
+[*] 02-04-2024 16:35:37 GET /home
+[*] 02-04-2024 16:35:44 GET /index
+[+] 02-04-2024 16:38:11 Server is listening at 3000
+[*] 02-04-2024 16:38:29 GET /index
+[*] 02-04-2024 16:38:39 GET /index
+[+] 02-04-2024 16:39:00 Server is listening at 3000
+[+] 02-04-2024 16:39:16 Server is listening at 3000
+[*] 02-04-2024 16:39:22 GET /index
+[*] 02-04-2024 16:41:34 GET /
+[*] 02-04-2024 16:41:34 GET /favicon.ico
+[+] 02-04-2024 16:52:32 Server is listening at 3000
+[*] 02-04-2024 16:52:38 GET /
+[+] 02-04-2024 16:55:06 Server is listening at 3000
+[*] 02-04-2024 16:55:11 GET /
+[+] 02-04-2024 16:58:58 Server is listening at 3000
+[+] 02-04-2024 16:59:15 Server is listening at 3000
+[+] 02-04-2024 16:59:32 Server is listening at 3000
+[+] 02-04-2024 16:59:32 Server is listening at 3000
+[+] 02-04-2024 17:04:12 Server is listening at 3000
+[+] 02-04-2024 17:04:23 Server is listening at 3000
+[+] 02-04-2024 17:05:59 Server is listening at 3000
+[+] 02-04-2024 17:06:46 Server is listening at 3000
+[+] 02-04-2024 17:06:56 Server is listening at 3000
+[+] 02-04-2024 17:07:18 Server is listening at 3000
+[*] 02-04-2024 17:07:49 GET /
+[*] 02-04-2024 17:07:50 GET /
+[+] 02-04-2024 17:09:43 Server is listening at 3000
+[+] 02-04-2024 17:09:45 Server is listening at 3000
+[*] 02-04-2024 17:11:44 GET /
+[+] 02-04-2024 17:12:40 Server is listening at 3000
+[*] 02-04-2024 17:12:50 GET /sddd
+[*] 02-04-2024 17:12:56 GET /
+[*] 02-04-2024 17:12:58 GET /dgfgwdb
+[+] 02-04-2024 17:15:52 Server is listening at 3000
+[+] 02-04-2024 17:15:57 Server is listening at 3000
+[*] 02-04-2024 17:17:15 GET /
+[*] 02-04-2024 17:17:22 GET /home
+[*] 02-04-2024 17:17:27 GET /
+[*] 02-04-2024 17:17:30 GET /sdmfkjf
+[*] 02-04-2024 17:17:34 GET /
+[+] 02-04-2024 17:19:35 Server is listening at 3000
+[*] 02-04-2024 17:19:41 GET /
+[*] 02-04-2024 17:19:47 GET /
+[*] 02-04-2024 17:19:56 GET /fjhhdnhdh
+[*] 02-04-2024 17:20:06 GET /
+[*] 02-04-2024 17:20:16 GET /ffffdewscsc
+[*] 02-04-2024 17:21:57 GET /
+[*] 02-04-2024 17:22:11 GET /ddedcsc
+[*] 02-04-2024 17:23:11 GET /
+[*] 02-04-2024 17:23:51 GET /fecdccss
+[*] 02-04-2024 17:24:11 GET /sdcsacsc
+[*] 02-04-2024 17:25:49 GET /
+[*] 02-04-2024 17:27:32 GET /sdcsacsc
+[*] 02-04-2024 17:27:33 GET /sdcsacsc
+[*] 02-04-2024 17:27:33 GET /sdcsacsc
+[*] 02-04-2024 17:27:34 GET /sdcsacsc
+[*] 02-04-2024 17:27:34 GET /sdcsacsc
+[*] 02-04-2024 17:27:34 GET /sdcsacsc
+[*] 02-04-2024 17:27:34 GET /sdcsacsc
+[*] 02-04-2024 17:27:34 GET /sdcsacsc
+[*] 02-04-2024 17:27:34 GET /sdcsacsc
+[*] 02-04-2024 17:27:35 GET /sdcsacsc
+[*] 02-04-2024 17:27:35 GET /sdcsacsc
+[*] 02-04-2024 17:27:35 GET /sdcsacsc
+[*] 02-04-2024 17:27:35 GET /sdcsacsc
+[*] 02-04-2024 17:27:35 GET /sdcsacsc
+[*] 02-04-2024 17:27:35 GET /sdcsacsc
+[*] 02-04-2024 17:27:36 GET /sdcsacsc
+[*] 02-04-2024 17:27:36 GET /sdcsacsc
+[*] 02-04-2024 17:27:36 GET /sdcsacsc
+[*] 02-04-2024 17:27:36 GET /sdcsacsc
+[*] 02-04-2024 17:27:36 GET /sdcsacsc
+[*] 02-04-2024 17:27:37 GET /sdcsacsc
+[*] 02-04-2024 17:27:37 GET /sdcsacsc
+[*] 02-04-2024 17:27:37 GET /sdcsacsc
+[*] 02-04-2024 17:27:37 GET /sdcsacsc
+[*] 02-04-2024 17:27:38 GET /sdcsacsc
+[*] 02-04-2024 17:27:38 GET /sdcsacsc
+[*] 02-04-2024 17:27:50 GET /sdcsacsc
+[+] 02-04-2024 17:28:49 Server is listening at 3000
+[+] 02-04-2024 17:29:03 Server is listening at 3000
+[*] 02-04-2024 17:29:11 GET /ddedcsc
+[*] 02-04-2024 17:29:18 GET /
+[*] 02-04-2024 17:29:24 GET /
+[*] 02-04-2024 17:29:27 GET /fdvedvsv
+[*] 02-04-2024 17:29:38 GET /fdvedvsv
+[+] 02-04-2024 17:32:19 Server is listening at 3000
+[+] 02-04-2024 17:33:00 Server is listening at 3000
+[*] 02-04-2024 17:33:17 GET /sdvdda
+[+] 02-04-2024 17:34:36 Server is listening at 3000
+[+] 02-04-2024 17:36:44 Server is listening at 3000
+[+] 02-04-2024 17:38:56 Server is listening at 3000
+[+] 02-04-2024 17:39:09 Server is listening at 3000
+[*] 02-04-2024 17:39:19 GET /
+[*] 02-04-2024 17:39:31 POST /
+[+] 02-04-2024 17:40:21 Server is listening at 3000
+[+] 02-04-2024 17:43:33 Server is listening at 3000
+[+] 02-04-2024 17:44:28 Server is listening at 3000
+[+] 02-04-2024 17:44:41 Server is listening at 3000
+[+] 02-04-2024 17:45:35 Server is listening at 3000
+[+] 02-04-2024 17:46:15 Server is listening at 3000
+[+] 02-04-2024 17:46:27 Server is listening at 3000
+[*] 02-04-2024 17:46:40 GET /home
+[*] 02-04-2024 17:46:47 GET /index
+[*] 02-04-2024 17:47:23 GET /
+[*] 02-04-2024 17:47:30 GET /dashboard
+[*] 02-04-2024 17:47:55 GET /ddmhdnbsnd
+[+] 02-04-2024 17:48:35 Server is listening at 3000
+[*] 02-04-2024 17:49:10 GET /ddmhdnbsnd
+[*] 02-04-2024 17:49:22 POST /home
+[*] 02-04-2024 17:49:34 POST /dashboard
+[+] 02-04-2024 17:51:56 Server is listening at 3000
+[+] 02-04-2024 17:54:32 Server is listening at 3000
+[+] 02-04-2024 17:55:08 Server is listening at 3000
+[+] 02-04-2024 17:55:20 Server is listening at 3000
+[+] 02-04-2024 17:55:46 Server is listening at 3000
+[+] 02-04-2024 17:58:03 Server is listening at 3000
+[+] 02-04-2024 17:58:20 Server is listening at 3000
+[+] 02-04-2024 17:58:36 Server is listening at 3000
+[+] 02-04-2024 17:58:55 Server is listening at 3000
+[+] 02-04-2024 17:59:03 Server is listening at 3000
+[+] 02-04-2024 17:59:45 Server is listening at 3000
+[+] 02-04-2024 17:59:47 Server is listening at 3000
+[+] 02-04-2024 18:26:03 Server is listening at 3000
+[*] 02-04-2024 18:26:36 GET /users
